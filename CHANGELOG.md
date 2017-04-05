@@ -31,6 +31,7 @@ between annotations and recorded VAD events).
 As the **admin** user:
 
 * Ensure permissions are correct: `sudo chown -R exp /Users/exp/miniconda2/lib`
+* Install homebrew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 * Install portaudio: `brew install portaudio`
 
 As the **exp** user:
